@@ -542,7 +542,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to LOOT network</source>
         <translation><numerusform>%n aktiivinen yhteys CryptoLOOT-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä CryptoLOOT-verkkoon</numerusform></translation>
     </message>
     <message>
@@ -854,7 +854,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Ota yhteys CryptoLOOT-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
@@ -1015,7 +1015,7 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
         <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu CryptoLOOT-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
@@ -2217,7 +2217,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
+        <source>Specify configuration file (default: loot.conf)</source>
         <translation>Määritä asetustiedosto (oletus: cryptoloot.conf)</translation>
     </message>
     <message>

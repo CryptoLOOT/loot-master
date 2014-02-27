@@ -1083,7 +1083,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
 
 static const int64 nTargetTimespan = 18000;
 static const int64 nTargetSpacing = 300;
-static const int64 nInterval = nTargetTimespan / nTargetSpacing;
+static const int64 nInterval = nTargetSpacing;
 
 //
 // minimum amount of work that could possibly be required nTime after

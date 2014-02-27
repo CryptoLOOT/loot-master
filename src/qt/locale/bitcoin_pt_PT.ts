@@ -541,7 +541,7 @@ Este produto inclui software desenvolvido pelo Projecto OpenSSL para uso no Open
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to LOOT network</source>
         <translation><numerusform>%n ligação ativa à rede CryptoLOOT</numerusform><numerusform>%n ligações ativas à rede CryptoLOOT</numerusform></translation>
     </message>
     <message>
@@ -854,7 +854,7 @@ Endereço: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Ligar à rede CryptoLOOT através de um proxy SOCKS (p.ex. quando ligar através de Tor).</translation>
     </message>
     <message>
@@ -1015,7 +1015,7 @@ Endereço: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
         <translation>A informação mostrada poderá estar desatualizada. A sua carteira sincroniza automaticamente com a rede CryptoLOOT depois de estabelecer ligação, mas este processo ainda não está completo.</translation>
     </message>
     <message>
@@ -2217,7 +2217,7 @@ Endereço: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
+        <source>Specify configuration file (default: loot.conf)</source>
         <translation>Especificar ficheiro de configuração (por defeito: cryptoloot.conf)</translation>
     </message>
     <message>

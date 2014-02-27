@@ -544,7 +544,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Bitcoin network</source>
+        <source>%n active connection(s) to LOOT network</source>
         <translation><numerusform>%n conexión activa hacia la red CryptoLOOT</numerusform><numerusform>%n conexiones activas hacia la red CryptoLOOT</numerusform></translation>
     </message>
     <message>
@@ -857,7 +857,7 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Conectar a la red CryptoLOOT a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
@@ -1018,7 +1018,7 @@ Dirección: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
         <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red CryptoLOOT después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
@@ -2223,8 +2223,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: bitcoin.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: bitcoin.conf)
+        <source>Specify configuration file (default: loot.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: loot.conf)
 </translation>
     </message>
     <message>
