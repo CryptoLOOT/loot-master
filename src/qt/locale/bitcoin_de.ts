@@ -541,7 +541,7 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to LOOT network</source>
+        <source>%n active connection(s) to Bitcoin network</source>
         <translation><numerusform>%n aktive Verbindung zum CryptoLOOT-Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum CryptoLOOT-Netzwerk</numerusform></translation>
     </message>
     <message>
@@ -853,7 +853,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Über einen SOCKS-Proxy mit dem CryptoLOOT-Netzwerk verbinden (z.B. beim Verbinden über Tor).</translation>
     </message>
     <message>
@@ -1014,7 +1014,7 @@ Adresse: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Die angezeigten Informationen sind möglicherweise nicht mehr aktuell. Ihre Brieftasche wird automatisch synchronisiert, nachdem eine Verbindung zum CryptoLOOT-Netzwerk hergestellt wurde. Dieser Prozess ist jedoch derzeit noch nicht abgeschlossen.</translation>
     </message>
     <message>
@@ -2216,7 +2216,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: loot.conf)</source>
+        <source>Specify configuration file (default: bitcoin.conf)</source>
         <translation>Konfigurationsdatei festlegen (Standard: cryptoloot.conf)</translation>
     </message>
     <message>

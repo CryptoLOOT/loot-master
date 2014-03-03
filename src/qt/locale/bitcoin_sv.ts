@@ -542,7 +542,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to LOOT network</source>
+        <source>%n active connection(s) to Bitcoin network</source>
         <translation><numerusform>%n aktiv anslutning till CryptoLOOT-nätverket</numerusform><numerusform>%n aktiva anslutningar till CryptoLOOT-nätverket</numerusform></translation>
     </message>
     <message>
@@ -855,7 +855,7 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Anslut till CryptoLOOT-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
@@ -1016,7 +1016,7 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med CryptoLOOT-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
@@ -2218,7 +2218,7 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: loot.conf)</source>
+        <source>Specify configuration file (default: bitcoin.conf)</source>
         <translation>Ange konfigurationsfil (förvalt: cryptoloot.conf)</translation>
     </message>
     <message>

@@ -540,7 +540,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to LOOT network</source>
+        <source>%n active connection(s) to Bitcoin network</source>
         <translation><numerusform>%n activa conexio ad rete CryptoLOOT</numerusform><numerusform>%n activae conexiones ad rete CryptoLOOT</numerusform></translation>
     </message>
     <message>
@@ -853,7 +853,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the LOOT network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Bitcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connecte ad rete CryptoLOOT per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
@@ -1014,7 +1014,7 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LOOT network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete CryptoLOOT postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
@@ -2216,7 +2216,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: loot.conf)</source>
+        <source>Specify configuration file (default: bitcoin.conf)</source>
         <translation>Specifica configurationis plicam (praedefinitum: cryptoloot.conf)</translation>
     </message>
     <message>
